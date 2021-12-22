@@ -1,12 +1,12 @@
-*.swo
-*.swp
-*.log
+# IDE Files
+#-------------------------
+/nbproject/
 .idea/*
-.nyc_output
-dist
-node_modules
-test
-src/**.js
-coverage
-package-lock.json
-.DS_Store
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
